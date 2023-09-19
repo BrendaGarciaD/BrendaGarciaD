@@ -15,6 +15,6 @@ Meu nome é Brenda sou uma estudante de Analise e Desenvolvimento de Sistemas.
 
 ## Contato
 
-- GitHub: [seu-username](https://github.com/BrendaGarciaD)
-- Website: [Seu Website](https://tessinfinity.com/)
+- GitHub: [Brenda Garcia](https://github.com/BrendaGarciaD)
+- Website: [Tess Infinity](https://tessinfinity.com/)
 - Email: brenda@tessinfinity.com
