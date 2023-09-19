@@ -1,7 +1,7 @@
 # Brenda Garcia
 
 [![GitHub Badge](https://img.shields.io/github/followers/BrendaGarciaD?label=Follow&style=social)](https://github.com/BrendaGarciaD)
-[![Website Badge](https://img.shields.io/badge/-Seu%20Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://seusite.com/)](https://tessinfinity.com/)
+[![Website Badge](https://img.shields.io/badge/-Seu%20Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tessinfinity.com/)](https://tessinfinity.com/)
 
 ## Sobre mim
 
